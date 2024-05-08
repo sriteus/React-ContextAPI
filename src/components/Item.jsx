@@ -16,7 +16,7 @@ const Item = (props) => {
           ])
         }
       >
-        Add To Cart
+        Add To The Cart
       </button>
     </div>
   );
